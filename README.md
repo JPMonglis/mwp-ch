@@ -1,2 +1,2 @@
-## This is the cahllenges from the book Modern Web Pentesting 
+This is the challenges from the book Modern Web Pentesting 
 
